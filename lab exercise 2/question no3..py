@@ -16,4 +16,4 @@ elif total_percentage >= 60:
 elif total_percentage >= 40:
     print("pass")
 else:
-    print("fail")
+    print("failed")
