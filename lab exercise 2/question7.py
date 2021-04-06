@@ -8,4 +8,4 @@ while guess_count < guess_limit:
     if guess==secrect_number:
         print("you won")
 else:
-    print("sorry,you failed")
+    print("sorry,you failed !!")
