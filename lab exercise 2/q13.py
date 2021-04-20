@@ -1,7 +1,7 @@
 #given a positive real number,print its fractional part.
-import math
-number=float(input("enter the positive real number:"))
-print(math.modf(number))
+#import math
+#number=float(input("enter the positive real number:"))
+#print(math.modf(number))
 
 number2 = float(input("Enter the number: "))
 number3 = int(number2)
